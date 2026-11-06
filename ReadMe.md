@@ -14,8 +14,6 @@
 
 </div>
 
-<!-- TODO: replace YOUR-LINKEDIN, YOUR-EMAIL and YOUR-PORTFOLIO above -->
-
 ---
 
 ## 🧭 What I Lead
@@ -66,6 +64,152 @@ Putting AI to work in every part of how software gets built, tested, shipped and
 
 ---
 
+## 🚀 Featured Projects
+
+Open-source work that shows how I think about quality, platforms and AI. Each one is tested, documented, and honest about its limits.
+
+### 🤖 Agentic AI
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ [agent-runtime](https://github.com/TheByteCodeHQ/agent-runtime)
+**An agent runtime where safety is code, not a prompt.**
+
+- Tool policies, human approvals, budgets and loop detection
+- Untrusted content forces a human gate on risky calls, even for allow-listed tools
+- Hash-chained audit trail, and replay of an incident against a stricter policy
+
+`Python` · `Agents` · `Guardrails`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📏 [ai-eval-harness](https://github.com/TheByteCodeHQ/ai-eval-harness)
+**Measures AI systems properly, and gates a build on the result.**
+
+- Pass rates with confidence intervals, repeats that expose flakiness, per-tag breakdowns
+- Paired comparison names the exact cases that regressed
+- A guarded LLM judge: steering attempts are refused, outages count as failures
+
+`Python` · `Evals` · `Statistics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [ai-qa-assistant](https://github.com/TheByteCodeHQ/ai-qa-assistant)
+**An AI agent that turns requirements into reviewed test cases and Jira story drafts.**
+
+- Input guardrails: secret and personal-data redaction, prompt-injection handling
+- Review loop, plus output checks that drop invented or duplicate test cases
+- Deterministic evaluation score, usable as a CI gate
+
+`Python` · `Gemini` · `Pydantic`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧪 [mcp-test-tools](https://github.com/TheByteCodeHQ/mcp-test-tools)
+**An MCP server that lets an AI agent run tests, read results and file bugs safely.**
+
+- Agents pick a suite, never a command; no shell access
+- Bugs are drafts until a human confirms, with duplicate detection and caps
+- Redaction of secrets in everything returned or filed
+
+`Python` · `MCP` · `JUnit`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🔍 [ai-code-risk-scanner](https://github.com/TheByteCodeHQ/ai-code-risk-scanner)
+**Reviews a git diff with deterministic rules plus an optional AI review, and verifies every AI finding against the real diff before showing it.**
+
+- Secrets, injection, unsafe execution, destructive migrations and risky change shape, with SARIF output for GitHub code scanning
+- Baselines and inline suppressions so a team can adopt it on an existing codebase
+
+`Python` · `Gemini` · `SARIF`
+
+</td>
+</tr>
+</table>
+
+### 🧪 QA & Automation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎭 [pytest-playwright-framework](https://github.com/TheByteCodeHQ/pytest-playwright-framework)
+**A UI and API test framework where every failure explains itself, with a bundled demo shop to test.**
+
+- Page objects, a typed API client, parallel runs and rich failure evidence
+- Found and fixed real races and security gaps in its own demo app
+- No flaky tests across 5 repeated runs
+
+`Python` · `Playwright` · `pytest`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎲 [flaky-test-detector](https://github.com/TheByteCodeHQ/flaky-test-detector)
+**Finds flaky, broken and slow tests in the JUnit XML your CI already produces.**
+
+- Calls a test flaky only on proof: it passed and failed on the same commit, or failed then passed on a rerun
+- Weaker evidence is labelled as such, and it tells you what to quarantine; no dependencies to install
+
+`Python` · `JUnit` · `CI`
+
+</td>
+</tr>
+</table>
+
+### ☁️ DevOps, Engineering & Development
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### ☸️ [k8s-test-runner](https://github.com/TheByteCodeHQ/k8s-test-runner)
+**Runs test suites as isolated Kubernetes Jobs behind a stateless API and dashboard.**
+
+- Non-root, read-only, resource-limited pods
+- Kubernetes is the only store, so the API scales freely
+
+`Python` · `FastAPI` · `Kubernetes`
+
+</td>
+<td width="33%" valign="top">
+
+#### 📘 [engineering-playbook](https://github.com/TheByteCodeHQ/engineering-playbook)
+**An opinionated playbook for building, testing, shipping and running software well.**
+
+- Test strategy, quality gates, release, incidents and AI guardrails
+- Templates, plus a DORA metrics dashboard tool
+
+`Markdown` · `Python` · `DORA`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧱 [spring-angular-project](https://github.com/TheByteCodeHQ/spring-angular-project)
+**A production-minded full-stack starter: Spring Boot API and Angular app.**
+
+- JWT security, Flyway migrations, architecture rules enforced by tests
+- 88 tests and 99% backend line coverage
+
+`Java` · `Spring Boot` · `Angular`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 How I Lead
 
 > Leadership, for me, is making the right way the easy way: for the product, the pipeline and the people building them.
@@ -103,7 +247,6 @@ Putting AI to work in every part of how software gets built, tested, shipped and
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Agentic AI**<br/>
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
