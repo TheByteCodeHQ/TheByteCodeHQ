@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sujyonta Kumar Giri, Engineering Leader" width="100%"/>
+<img src="assets/banner.svg" alt="TheByteCodeHQ, Engineering Leader" width="100%"/>
 
 ### Building high-performing engineering teams and the platforms they ship on.
 
