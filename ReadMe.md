@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/Sujyonta"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sujoykg"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Sujyont@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1c2541?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/TheByteCodeHQ"><img src="https://img.shields.io/badge/Portfolio-Visit-3a506b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
