@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="TheByteCodeHQ, Engineering Leader" width="100%"/>
+<img src="assets/banner.svg" alt="Sujyonta Kumar Giri, Engineering Leader" width="100%"/>
 
 ### Building high-performing engineering teams and the platforms they ship on.
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sujoykg"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/Sujyonta"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Sujyont@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1c2541?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/TheByteCodeHQ"><img src="https://img.shields.io/badge/Portfolio-Visit-3a506b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
@@ -289,7 +289,7 @@ I'm happy to talk about **engineering leadership, quality strategy, automation p
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sujoykg"><img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/Sujyonta"><img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <img src="assets/footer.svg" width="100%" alt="Footer"/>
 
